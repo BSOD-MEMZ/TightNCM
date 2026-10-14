@@ -1,0 +1,2480 @@
+[
+  {
+    "name": "15sForward",
+    "file": "ncm_15sForward.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 6557
+  },
+  {
+    "name": "30sLater",
+    "file": "ncm_30sLater.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 8575
+  },
+  {
+    "name": "5s-forward",
+    "file": "ncm_5s-forward.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 6007
+  },
+  {
+    "name": "5s-later",
+    "file": "ncm_5s-later.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5777
+  },
+  {
+    "name": "add",
+    "file": "ncm_add.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3821
+  },
+  {
+    "name": "add_to_playlist",
+    "file": "ncm_add_to_playlist.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3688
+  },
+  {
+    "name": "addall",
+    "file": "ncm_addall.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3053
+  },
+  {
+    "name": "alipay",
+    "file": "ncm_alipay.svg",
+    "viewBox": "0 0 30 30",
+    "paths": 2,
+    "bytes": 635
+  },
+  {
+    "name": "android",
+    "file": "ncm_android.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 4,
+    "bytes": 8266
+  },
+  {
+    "name": "apple",
+    "file": "ncm_apple.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3145
+  },
+  {
+    "name": "at",
+    "file": "ncm_at.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 5675
+  },
+  {
+    "name": "back",
+    "file": "ncm_back.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 797
+  },
+  {
+    "name": "back_to_top",
+    "file": "ncm_back_to_top.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1843
+  },
+  {
+    "name": "backward",
+    "file": "ncm_backward.svg",
+    "viewBox": "0 0 7 13",
+    "paths": 1,
+    "bytes": 128
+  },
+  {
+    "name": "batch",
+    "file": "ncm_batch.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3589
+  },
+  {
+    "name": "blacklist",
+    "file": "ncm_blacklist.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2077
+  },
+  {
+    "name": "buy",
+    "file": "ncm_buy.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2788
+  },
+  {
+    "name": "car",
+    "file": "ncm_car.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 4113
+  },
+  {
+    "name": "cellphone",
+    "file": "ncm_cellphone.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 3,
+    "bytes": 1167
+  },
+  {
+    "name": "chat",
+    "file": "ncm_chat.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 919
+  },
+  {
+    "name": "check",
+    "file": "ncm_check.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2613
+  },
+  {
+    "name": "checked",
+    "file": "ncm_checked.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5189
+  },
+  {
+    "name": "close",
+    "file": "ncm_close.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 1,
+    "bytes": 708
+  },
+  {
+    "name": "clouddisk",
+    "file": "ncm_clouddisk.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1058
+  },
+  {
+    "name": "clouddiskAndDownload",
+    "file": "ncm_clouddiskAndDownload.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1332
+  },
+  {
+    "name": "collect",
+    "file": "ncm_collect.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4681
+  },
+  {
+    "name": "collected",
+    "file": "ncm_collected.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5051
+  },
+  {
+    "name": "comma",
+    "file": "ncm_comma.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2227
+  },
+  {
+    "name": "comment",
+    "file": "ncm_comment.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4561
+  },
+  {
+    "name": "comment_number",
+    "file": "ncm_comment_number.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4970
+  },
+  {
+    "name": "community",
+    "file": "ncm_community.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1483
+  },
+  {
+    "name": "copy",
+    "file": "ncm_copy.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 4143
+  },
+  {
+    "name": "correct",
+    "file": "ncm_correct.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4116
+  },
+  {
+    "name": "correct_select",
+    "file": "ncm_correct_select.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1282
+  },
+  {
+    "name": "curren_page",
+    "file": "ncm_curren_page.svg",
+    "viewBox": "0 0 7 13",
+    "paths": 1,
+    "bytes": 128
+  },
+  {
+    "name": "date_default",
+    "file": "ncm_date_default.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2463
+  },
+  {
+    "name": "date1",
+    "file": "ncm_date1.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 1572
+  },
+  {
+    "name": "date10",
+    "file": "ncm_date10.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2114
+  },
+  {
+    "name": "date11",
+    "file": "ncm_date11.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 1733
+  },
+  {
+    "name": "date12",
+    "file": "ncm_date12.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2178
+  },
+  {
+    "name": "date13",
+    "file": "ncm_date13.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2283
+  },
+  {
+    "name": "date14",
+    "file": "ncm_date14.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 1888
+  },
+  {
+    "name": "date15",
+    "file": "ncm_date15.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2347
+  },
+  {
+    "name": "date16",
+    "file": "ncm_date16.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2345
+  },
+  {
+    "name": "date17",
+    "file": "ncm_date17.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 1711
+  },
+  {
+    "name": "date18",
+    "file": "ncm_date18.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2852
+  },
+  {
+    "name": "date19",
+    "file": "ncm_date19.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2377
+  },
+  {
+    "name": "date2",
+    "file": "ncm_date2.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 1992
+  },
+  {
+    "name": "date20",
+    "file": "ncm_date20.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2612
+  },
+  {
+    "name": "date21",
+    "file": "ncm_date21.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2147
+  },
+  {
+    "name": "date22",
+    "file": "ncm_date22.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2616
+  },
+  {
+    "name": "date23",
+    "file": "ncm_date23.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2635
+  },
+  {
+    "name": "date24",
+    "file": "ncm_date24.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2266
+  },
+  {
+    "name": "date25",
+    "file": "ncm_date25.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2707
+  },
+  {
+    "name": "date26",
+    "file": "ncm_date26.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2888
+  },
+  {
+    "name": "date27",
+    "file": "ncm_date27.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2111
+  },
+  {
+    "name": "date28",
+    "file": "ncm_date28.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 3329
+  },
+  {
+    "name": "date29",
+    "file": "ncm_date29.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2810
+  },
+  {
+    "name": "date3",
+    "file": "ncm_date3.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2139
+  },
+  {
+    "name": "date30",
+    "file": "ncm_date30.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2717
+  },
+  {
+    "name": "date31",
+    "file": "ncm_date31.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2227
+  },
+  {
+    "name": "date4",
+    "file": "ncm_date4.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 1701
+  },
+  {
+    "name": "date5",
+    "file": "ncm_date5.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2213
+  },
+  {
+    "name": "date6",
+    "file": "ncm_date6.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2190
+  },
+  {
+    "name": "date7",
+    "file": "ncm_date7.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 1579
+  },
+  {
+    "name": "date8",
+    "file": "ncm_date8.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2696
+  },
+  {
+    "name": "date9",
+    "file": "ncm_date9.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 2,
+    "bytes": 2257
+  },
+  {
+    "name": "decline",
+    "file": "ncm_decline.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 523
+  },
+  {
+    "name": "default-sort",
+    "file": "ncm_default-sort.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3956
+  },
+  {
+    "name": "delete",
+    "file": "ncm_delete.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2766
+  },
+  {
+    "name": "delete_history",
+    "file": "ncm_delete_history.svg",
+    "viewBox": "0 0 18 18",
+    "paths": 6,
+    "bytes": 13371
+  },
+  {
+    "name": "delete_tag",
+    "file": "ncm_delete_tag.svg",
+    "viewBox": "0 0 16 16",
+    "paths": 2,
+    "bytes": 1033
+  },
+  {
+    "name": "dislike",
+    "file": "ncm_dislike.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 4083
+  },
+  {
+    "name": "dldok",
+    "file": "ncm_dldok.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5621
+  },
+  {
+    "name": "dolby_12",
+    "file": "ncm_dolby_12.svg",
+    "viewBox": "0 0 15 12",
+    "paths": 2,
+    "bytes": 1306
+  },
+  {
+    "name": "dolby_16",
+    "file": "ncm_dolby_16.svg",
+    "viewBox": "0 0 20 16",
+    "paths": 2,
+    "bytes": 1366
+  },
+  {
+    "name": "dolby_no_outline",
+    "file": "ncm_dolby_no_outline.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 2,
+    "bytes": 917
+  },
+  {
+    "name": "done",
+    "file": "ncm_done.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1387
+  },
+  {
+    "name": "doubt",
+    "file": "ncm_doubt.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 3364
+  },
+  {
+    "name": "download",
+    "file": "ncm_download.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3639
+  },
+  {
+    "name": "download3",
+    "file": "ncm_download3.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 1225
+  },
+  {
+    "name": "downloading",
+    "file": "ncm_downloading.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4477
+  },
+  {
+    "name": "drag_list",
+    "file": "ncm_drag_list.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1803
+  },
+  {
+    "name": "drag-list",
+    "file": "ncm_drag-list.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1803
+  },
+  {
+    "name": "dropdown",
+    "file": "ncm_dropdown.svg",
+    "viewBox": "0 0 40 40",
+    "paths": 1,
+    "bytes": 462
+  },
+  {
+    "name": "dubbing",
+    "file": "ncm_dubbing.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2913
+  },
+  {
+    "name": "edit",
+    "file": "ncm_edit.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4378
+  },
+  {
+    "name": "editbg",
+    "file": "ncm_editbg.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2680
+  },
+  {
+    "name": "editing",
+    "file": "ncm_editing.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2680
+  },
+  {
+    "name": "emoji",
+    "file": "ncm_emoji.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2892
+  },
+  {
+    "name": "error",
+    "file": "ncm_error.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4170
+  },
+  {
+    "name": "essential_playlist",
+    "file": "ncm_essential_playlist.svg",
+    "viewBox": "0 0 31 31",
+    "paths": 3,
+    "bytes": 1108
+  },
+  {
+    "name": "exit",
+    "file": "ncm_exit.svg",
+    "viewBox": "0 0 18 18",
+    "paths": 2,
+    "bytes": 204
+  },
+  {
+    "name": "explicit",
+    "file": "ncm_explicit.svg",
+    "viewBox": "0 0 12 12",
+    "paths": 1,
+    "bytes": 2944
+  },
+  {
+    "name": "favoritePlaylist",
+    "file": "ncm_favoritePlaylist.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 917
+  },
+  {
+    "name": "favourite",
+    "file": "ncm_favourite.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1608
+  },
+  {
+    "name": "featured",
+    "file": "ncm_featured.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3483
+  },
+  {
+    "name": "female",
+    "file": "ncm_female.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2781
+  },
+  {
+    "name": "file",
+    "file": "ncm_file.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2085
+  },
+  {
+    "name": "flat",
+    "file": "ncm_flat.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 404
+  },
+  {
+    "name": "font_size",
+    "file": "ncm_font_size.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3335
+  },
+  {
+    "name": "forward",
+    "file": "ncm_forward.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2326
+  },
+  {
+    "name": "free",
+    "file": "ncm_free.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 7643
+  },
+  {
+    "name": "fromCloudDisk",
+    "file": "ncm_fromCloudDisk.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2779
+  },
+  {
+    "name": "fullscreen",
+    "file": "ncm_fullscreen.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2577
+  },
+  {
+    "name": "fullscreen_new",
+    "file": "ncm_fullscreen_new.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 4,
+    "bytes": 1550
+  },
+  {
+    "name": "heartbeat",
+    "file": "ncm_heartbeat.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4130
+  },
+  {
+    "name": "help",
+    "file": "ncm_help.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 2,
+    "bytes": 4779
+  },
+  {
+    "name": "hi_res",
+    "file": "ncm_hi_res.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 4,
+    "bytes": 20100
+  },
+  {
+    "name": "hires",
+    "file": "ncm_hires.svg",
+    "viewBox": "0 0 35 13",
+    "paths": 2,
+    "bytes": 3396
+  },
+  {
+    "name": "hires_medium",
+    "file": "ncm_hires_medium.svg",
+    "viewBox": "0 0 40 16",
+    "paths": 3,
+    "bytes": 3125
+  },
+  {
+    "name": "history",
+    "file": "ncm_history.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1135
+  },
+  {
+    "name": "home",
+    "file": "ncm_home.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 1527
+  },
+  {
+    "name": "hq",
+    "file": "ncm_hq.svg",
+    "viewBox": "0 0 18 13",
+    "paths": 2,
+    "bytes": 1686
+  },
+  {
+    "name": "hq_medium",
+    "file": "ncm_hq_medium.svg",
+    "viewBox": "0 0 21 16",
+    "paths": 3,
+    "bytes": 1424
+  },
+  {
+    "name": "imagetext",
+    "file": "ncm_imagetext.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2443
+  },
+  {
+    "name": "inaccurate",
+    "file": "ncm_inaccurate.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3426
+  },
+  {
+    "name": "infinite",
+    "file": "ncm_infinite.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3219
+  },
+  {
+    "name": "information",
+    "file": "ncm_information.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3636
+  },
+  {
+    "name": "install_fail",
+    "file": "ncm_install_fail.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 3,
+    "bytes": 13978
+  },
+  {
+    "name": "install_success",
+    "file": "ncm_install_success.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 4,
+    "bytes": 10814
+  },
+  {
+    "name": "jyeffect",
+    "file": "ncm_jyeffect.svg",
+    "viewBox": "0 0 40 13",
+    "paths": 2,
+    "bytes": 4942
+  },
+  {
+    "name": "jyeffect_medium",
+    "file": "ncm_jyeffect_medium.svg",
+    "viewBox": "0 0 46 16",
+    "paths": 3,
+    "bytes": 4252
+  },
+  {
+    "name": "jymaster",
+    "file": "ncm_jymaster.svg",
+    "viewBox": "0 0 40 13",
+    "paths": 2,
+    "bytes": 5162
+  },
+  {
+    "name": "jymaster_medium",
+    "file": "ncm_jymaster_medium.svg",
+    "viewBox": "0 0 46 16",
+    "paths": 3,
+    "bytes": 4407
+  },
+  {
+    "name": "level",
+    "file": "ncm_level.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5894
+  },
+  {
+    "name": "lifted",
+    "file": "ncm_lifted.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4088
+  },
+  {
+    "name": "like",
+    "file": "ncm_like.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 2865
+  },
+  {
+    "name": "like_number",
+    "file": "ncm_like_number.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1671
+  },
+  {
+    "name": "like_vinyl",
+    "file": "ncm_like_vinyl.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 746
+  },
+  {
+    "name": "likenumber_red",
+    "file": "ncm_likenumber_red.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1072
+  },
+  {
+    "name": "list-mode",
+    "file": "ncm_list-mode.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1272
+  },
+  {
+    "name": "listentogether",
+    "file": "ncm_listentogether.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 4,
+    "bytes": 400
+  },
+  {
+    "name": "listenTogether",
+    "file": "ncm_listenTogether.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 8337
+  },
+  {
+    "name": "loading",
+    "file": "ncm_loading.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3322
+  },
+  {
+    "name": "local",
+    "file": "ncm_local.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3239
+  },
+  {
+    "name": "locate",
+    "file": "ncm_locate.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4480
+  },
+  {
+    "name": "login_back",
+    "file": "ncm_login_back.svg",
+    "viewBox": "0 0 13 13",
+    "paths": 1,
+    "bytes": 158
+  },
+  {
+    "name": "login_close",
+    "file": "ncm_login_close.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 184
+  },
+  {
+    "name": "logo",
+    "file": "ncm_logo.svg",
+    "viewBox": "0 0 29 29",
+    "paths": 2,
+    "bytes": 3649
+  },
+  {
+    "name": "logo_osx",
+    "file": "ncm_logo_osx.svg",
+    "viewBox": "0 0 22 22",
+    "paths": 1,
+    "bytes": 6711
+  },
+  {
+    "name": "loop",
+    "file": "ncm_loop.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2060
+  },
+  {
+    "name": "lyric",
+    "file": "ncm_lyric.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 6092
+  },
+  {
+    "name": "lyric_on",
+    "file": "ncm_lyric_on.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 7106
+  },
+  {
+    "name": "lyrics",
+    "file": "ncm_lyrics.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 6092
+  },
+  {
+    "name": "mac",
+    "file": "ncm_mac.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 4220
+  },
+  {
+    "name": "mac-close",
+    "file": "ncm_mac-close.svg",
+    "viewBox": "0 0 9 9",
+    "paths": 1,
+    "bytes": 2228
+  },
+  {
+    "name": "mac-fullscreen",
+    "file": "ncm_mac-fullscreen.svg",
+    "viewBox": "0 0 9 9",
+    "paths": 1,
+    "bytes": 528
+  },
+  {
+    "name": "mac-maximize",
+    "file": "ncm_mac-maximize.svg",
+    "viewBox": "0 0 9 9",
+    "paths": 1,
+    "bytes": 1446
+  },
+  {
+    "name": "mac-minimize",
+    "file": "ncm_mac-minimize.svg",
+    "viewBox": "0 0 9 9",
+    "paths": 1,
+    "bytes": 683
+  },
+  {
+    "name": "mac-zoomout",
+    "file": "ncm_mac-zoomout.svg",
+    "viewBox": "0 0 9 9",
+    "paths": 1,
+    "bytes": 1046
+  },
+  {
+    "name": "male",
+    "file": "ncm_male.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2175
+  },
+  {
+    "name": "mall",
+    "file": "ncm_mall.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 4547
+  },
+  {
+    "name": "master",
+    "file": "ncm_master.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 2,
+    "bytes": 2586
+  },
+  {
+    "name": "match",
+    "file": "ncm_match.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4141
+  },
+  {
+    "name": "maximize",
+    "file": "ncm_maximize.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 1,
+    "bytes": 622
+  },
+  {
+    "name": "member",
+    "file": "ncm_member.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 3,
+    "bytes": 863
+  },
+  {
+    "name": "message",
+    "file": "ncm_message.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3356
+  },
+  {
+    "name": "mini",
+    "file": "ncm_mini.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2741
+  },
+  {
+    "name": "minimize",
+    "file": "ncm_minimize.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 1,
+    "bytes": 300
+  },
+  {
+    "name": "more",
+    "file": "ncm_more.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 633
+  },
+  {
+    "name": "morefunctions",
+    "file": "ncm_morefunctions.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 582
+  },
+  {
+    "name": "music",
+    "file": "ncm_music.svg",
+    "viewBox": "0 0 18 18",
+    "paths": 1,
+    "bytes": 1804
+  },
+  {
+    "name": "mute",
+    "file": "ncm_mute.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 4566
+  },
+  {
+    "name": "mutual-concern",
+    "file": "ncm_mutual-concern.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 2214
+  },
+  {
+    "name": "my-podcast",
+    "file": "ncm_my-podcast.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 6256
+  },
+  {
+    "name": "navswitch",
+    "file": "ncm_navswitch.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1039
+  },
+  {
+    "name": "netease",
+    "file": "ncm_netease.svg",
+    "viewBox": "0 0 41 40",
+    "paths": 1,
+    "bytes": 2478
+  },
+  {
+    "name": "neteasemusic",
+    "file": "ncm_neteasemusic.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 15118
+  },
+  {
+    "name": "new_lyric",
+    "file": "ncm_new_lyric.svg",
+    "viewBox": "0 0 16 16",
+    "paths": 1,
+    "bytes": 1850
+  },
+  {
+    "name": "newon",
+    "file": "ncm_newon.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 2023
+  },
+  {
+    "name": "newsong",
+    "file": "ncm_newsong.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 5926
+  },
+  {
+    "name": "next",
+    "file": "ncm_next.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2442
+  },
+  {
+    "name": "next_song",
+    "file": "ncm_next_song.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2024
+  },
+  {
+    "name": "next3",
+    "file": "ncm_next3.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5854
+  },
+  {
+    "name": "open_file",
+    "file": "ncm_open_file.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2461
+  },
+  {
+    "name": "order",
+    "file": "ncm_order.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1758
+  },
+  {
+    "name": "pad",
+    "file": "ncm_pad.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3367
+  },
+  {
+    "name": "pause",
+    "file": "ncm_pause.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1245
+  },
+  {
+    "name": "pause_desktop_comment",
+    "file": "ncm_pause_desktop_comment.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 2,
+    "bytes": 223
+  },
+  {
+    "name": "pause_desktop_comment_2",
+    "file": "ncm_pause_desktop_comment_2.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 2,
+    "bytes": 1986
+  },
+  {
+    "name": "pause2",
+    "file": "ncm_pause2.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2085
+  },
+  {
+    "name": "pc",
+    "file": "ncm_pc.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 3556
+  },
+  {
+    "name": "phone_confirm",
+    "file": "ncm_phone_confirm.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 5,
+    "bytes": 3412
+  },
+  {
+    "name": "play",
+    "file": "ncm_play.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 1516
+  },
+  {
+    "name": "play_desktop_comment",
+    "file": "ncm_play_desktop_comment.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 1,
+    "bytes": 1044
+  },
+  {
+    "name": "play_desktop_comment_2",
+    "file": "ncm_play_desktop_comment_2.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 1,
+    "bytes": 839
+  },
+  {
+    "name": "play2",
+    "file": "ncm_play2.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1435
+  },
+  {
+    "name": "player-mode",
+    "file": "ncm_player-mode.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 3,
+    "bytes": 1851
+  },
+  {
+    "name": "playing",
+    "file": "ncm_playing.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1583
+  },
+  {
+    "name": "playing1",
+    "file": "ncm_playing1.svg",
+    "viewBox": "0 0 48 48",
+    "paths": 3,
+    "bytes": 275
+  },
+  {
+    "name": "playlist",
+    "file": "ncm_playlist.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2269
+  },
+  {
+    "name": "plus",
+    "file": "ncm_plus.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1367
+  },
+  {
+    "name": "podcast",
+    "file": "ncm_podcast.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1150
+  },
+  {
+    "name": "point",
+    "file": "ncm_point.svg",
+    "viewBox": "0 0 4 20",
+    "paths": 3,
+    "bytes": 634
+  },
+  {
+    "name": "post",
+    "file": "ncm_post.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 3,
+    "bytes": 1047
+  },
+  {
+    "name": "praise",
+    "file": "ncm_praise.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3491
+  },
+  {
+    "name": "pre",
+    "file": "ncm_pre.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2022
+  },
+  {
+    "name": "privacy",
+    "file": "ncm_privacy.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4362
+  },
+  {
+    "name": "privateFm",
+    "file": "ncm_privateFm.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4925
+  },
+  {
+    "name": "problem",
+    "file": "ncm_problem.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1865
+  },
+  {
+    "name": "qq",
+    "file": "ncm_qq.svg",
+    "viewBox": "0 0 40 40",
+    "paths": 2,
+    "bytes": 745
+  },
+  {
+    "name": "rankflat",
+    "file": "ncm_rankflat.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 404
+  },
+  {
+    "name": "rbackward",
+    "file": "ncm_rbackward.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2332
+  },
+  {
+    "name": "refresh",
+    "file": "ncm_refresh.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3269
+  },
+  {
+    "name": "replay",
+    "file": "ncm_replay.svg",
+    "viewBox": "0 0 60 60",
+    "paths": 3,
+    "bytes": 10588
+  },
+  {
+    "name": "report",
+    "file": "ncm_report.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 2419
+  },
+  {
+    "name": "restore",
+    "file": "ncm_restore.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1744
+  },
+  {
+    "name": "return",
+    "file": "ncm_return.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 760
+  },
+  {
+    "name": "rise",
+    "file": "ncm_rise.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 536
+  },
+  {
+    "name": "roman",
+    "file": "ncm_roman.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5905
+  },
+  {
+    "name": "scan",
+    "file": "ncm_scan.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 6,
+    "bytes": 2669
+  },
+  {
+    "name": "search",
+    "file": "ncm_search.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1462
+  },
+  {
+    "name": "service",
+    "file": "ncm_service.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 4675
+  },
+  {
+    "name": "setting",
+    "file": "ncm_setting.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 4540
+  },
+  {
+    "name": "setting_thin",
+    "file": "ncm_setting_thin.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 4531
+  },
+  {
+    "name": "share",
+    "file": "ncm_share.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3165
+  },
+  {
+    "name": "share_message",
+    "file": "ncm_share_message.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 2088
+  },
+  {
+    "name": "share_music",
+    "file": "ncm_share_music.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 9089
+  },
+  {
+    "name": "share_qq",
+    "file": "ncm_share_qq.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1307
+  },
+  {
+    "name": "share_qzone",
+    "file": "ncm_share_qzone.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4065
+  },
+  {
+    "name": "share_source",
+    "file": "ncm_share_source.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 5450
+  },
+  {
+    "name": "share_wechat",
+    "file": "ncm_share_wechat.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2677
+  },
+  {
+    "name": "share_weibo",
+    "file": "ncm_share_weibo.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3074
+  },
+  {
+    "name": "shortcut",
+    "file": "ncm_shortcut.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3852
+  },
+  {
+    "name": "shuffle",
+    "file": "ncm_shuffle.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3636
+  },
+  {
+    "name": "sidebar_add",
+    "file": "ncm_sidebar_add.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 529
+  },
+  {
+    "name": "sidebar_clouddisk",
+    "file": "ncm_sidebar_clouddisk.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1170
+  },
+  {
+    "name": "sidebar_community",
+    "file": "ncm_sidebar_community.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 990
+  },
+  {
+    "name": "sidebar_edit",
+    "file": "ncm_sidebar_edit.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3043
+  },
+  {
+    "name": "sidebar_favourite",
+    "file": "ncm_sidebar_favourite.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1640
+  },
+  {
+    "name": "sidebar_featured",
+    "file": "ncm_sidebar_featured.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2096
+  },
+  {
+    "name": "sidebar_fm",
+    "file": "ncm_sidebar_fm.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3045
+  },
+  {
+    "name": "sidebar_heartbeat",
+    "file": "ncm_sidebar_heartbeat.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 2221
+  },
+  {
+    "name": "sidebar_history",
+    "file": "ncm_sidebar_history.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 569
+  },
+  {
+    "name": "sidebar_home",
+    "file": "ncm_sidebar_home.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 1536
+  },
+  {
+    "name": "sidebar_like",
+    "file": "ncm_sidebar_like.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 787
+  },
+  {
+    "name": "sidebar_localdownload",
+    "file": "ncm_sidebar_localdownload.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2311
+  },
+  {
+    "name": "sidebar_my_podcast",
+    "file": "ncm_sidebar_my_podcast.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5203
+  },
+  {
+    "name": "sidebar_podcast",
+    "file": "ncm_sidebar_podcast.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 6319
+  },
+  {
+    "name": "sidebar_slide_up",
+    "file": "ncm_sidebar_slide_up.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 637
+  },
+  {
+    "name": "sidebar_sticky",
+    "file": "ncm_sidebar_sticky.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 1,
+    "bytes": 992
+  },
+  {
+    "name": "sidebar_unfold",
+    "file": "ncm_sidebar_unfold.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 980
+  },
+  {
+    "name": "signin",
+    "file": "ncm_signin.svg",
+    "viewBox": "0 0 15 15",
+    "paths": 1,
+    "bytes": 2027
+  },
+  {
+    "name": "signout",
+    "file": "ncm_signout.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3645
+  },
+  {
+    "name": "signout_line",
+    "file": "ncm_signout_line.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3645
+  },
+  {
+    "name": "singer",
+    "file": "ncm_singer.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4353
+  },
+  {
+    "name": "singleloop",
+    "file": "ncm_singleloop.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3058
+  },
+  {
+    "name": "skin",
+    "file": "ncm_skin.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 5272
+  },
+  {
+    "name": "sky",
+    "file": "ncm_sky.svg",
+    "viewBox": "0 0 31 13",
+    "paths": 2,
+    "bytes": 3322
+  },
+  {
+    "name": "sky_medium",
+    "file": "ncm_sky_medium.svg",
+    "viewBox": "0 0 36 16",
+    "paths": 3,
+    "bytes": 2701
+  },
+  {
+    "name": "slide_down",
+    "file": "ncm_slide_down.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1819
+  },
+  {
+    "name": "slide_up",
+    "file": "ncm_slide_up.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 637
+  },
+  {
+    "name": "sound",
+    "file": "ncm_sound.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4117
+  },
+  {
+    "name": "soundbound",
+    "file": "ncm_soundbound.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 3796
+  },
+  {
+    "name": "source",
+    "file": "ncm_source.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4106
+  },
+  {
+    "name": "source_link",
+    "file": "ncm_source_link.svg",
+    "viewBox": "0 0 16 16",
+    "paths": 2,
+    "bytes": 5708
+  },
+  {
+    "name": "spatial_audio",
+    "file": "ncm_spatial_audio.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 2,
+    "bytes": 17336
+  },
+  {
+    "name": "sq",
+    "file": "ncm_sq.svg",
+    "viewBox": "0 0 18 13",
+    "paths": 2,
+    "bytes": 2558
+  },
+  {
+    "name": "sq_medium",
+    "file": "ncm_sq_medium.svg",
+    "viewBox": "0 0 21 16",
+    "paths": 3,
+    "bytes": 2145
+  },
+  {
+    "name": "standard",
+    "file": "ncm_standard.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 2,
+    "bytes": 8269
+  },
+  {
+    "name": "surround_audio",
+    "file": "ncm_surround_audio.svg",
+    "viewBox": "0 0 20 20",
+    "paths": 2,
+    "bytes": 29000
+  },
+  {
+    "name": "svip",
+    "file": "ncm_svip.svg",
+    "viewBox": "0 0 29 16",
+    "paths": 1,
+    "bytes": 2951
+  },
+  {
+    "name": "svip_comment",
+    "file": "ncm_svip_comment.svg",
+    "viewBox": "0 0 24 15",
+    "paths": 2,
+    "bytes": 2230
+  },
+  {
+    "name": "svip_comment_1",
+    "file": "ncm_svip_comment_1.svg",
+    "viewBox": "0 0 38 15",
+    "paths": 2,
+    "bytes": 2715
+  },
+  {
+    "name": "svip_comment_2",
+    "file": "ncm_svip_comment_2.svg",
+    "viewBox": "0 0 38 15",
+    "paths": 2,
+    "bytes": 3190
+  },
+  {
+    "name": "svip_comment_3",
+    "file": "ncm_svip_comment_3.svg",
+    "viewBox": "0 0 38 15",
+    "paths": 2,
+    "bytes": 3199
+  },
+  {
+    "name": "svip_comment_4",
+    "file": "ncm_svip_comment_4.svg",
+    "viewBox": "0 0 38 15",
+    "paths": 2,
+    "bytes": 3137
+  },
+  {
+    "name": "svip_comment_5",
+    "file": "ncm_svip_comment_5.svg",
+    "viewBox": "0 0 38 15",
+    "paths": 2,
+    "bytes": 2674
+  },
+  {
+    "name": "svip_comment_6",
+    "file": "ncm_svip_comment_6.svg",
+    "viewBox": "0 0 37 15",
+    "paths": 2,
+    "bytes": 2914
+  },
+  {
+    "name": "svip_comment_7",
+    "file": "ncm_svip_comment_7.svg",
+    "viewBox": "0 0 37 15",
+    "paths": 2,
+    "bytes": 3299
+  },
+  {
+    "name": "svip_default",
+    "file": "ncm_svip_default.svg",
+    "viewBox": "0 0 32 20",
+    "paths": 2,
+    "bytes": 2674
+  },
+  {
+    "name": "svip_expried",
+    "file": "ncm_svip_expried.svg",
+    "viewBox": "0 0 40 16",
+    "paths": 4,
+    "bytes": 4341
+  },
+  {
+    "name": "svip_level_1",
+    "file": "ncm_svip_level_1.svg",
+    "viewBox": "0 0 49 20",
+    "paths": 2,
+    "bytes": 3352
+  },
+  {
+    "name": "svip_level_2",
+    "file": "ncm_svip_level_2.svg",
+    "viewBox": "0 0 49 20",
+    "paths": 2,
+    "bytes": 3989
+  },
+  {
+    "name": "svip_level_3",
+    "file": "ncm_svip_level_3.svg",
+    "viewBox": "0 0 49 20",
+    "paths": 2,
+    "bytes": 3923
+  },
+  {
+    "name": "svip_level_4",
+    "file": "ncm_svip_level_4.svg",
+    "viewBox": "0 0 49 20",
+    "paths": 2,
+    "bytes": 3827
+  },
+  {
+    "name": "svip_level_5",
+    "file": "ncm_svip_level_5.svg",
+    "viewBox": "0 0 49 20",
+    "paths": 2,
+    "bytes": 3289
+  },
+  {
+    "name": "svip_level_6",
+    "file": "ncm_svip_level_6.svg",
+    "viewBox": "0 0 49 20",
+    "paths": 2,
+    "bytes": 3615
+  },
+  {
+    "name": "svip_level_7",
+    "file": "ncm_svip_level_7.svg",
+    "viewBox": "0 0 49 20",
+    "paths": 2,
+    "bytes": 4065
+  },
+  {
+    "name": "swipe_left",
+    "file": "ncm_swipe_left.svg",
+    "viewBox": "0 0 11 34",
+    "paths": 1,
+    "bytes": 130
+  },
+  {
+    "name": "swipe_left_pagination",
+    "file": "ncm_swipe_left_pagination.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1184
+  },
+  {
+    "name": "swipe_right",
+    "file": "ncm_swipe_right.svg",
+    "viewBox": "0 0 11 34",
+    "paths": 1,
+    "bytes": 130
+  },
+  {
+    "name": "swipe_right_pagination",
+    "file": "ncm_swipe_right_pagination.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1190
+  },
+  {
+    "name": "switch",
+    "file": "ncm_switch.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 2214
+  },
+  {
+    "name": "tagsmall",
+    "file": "ncm_tagsmall.svg",
+    "viewBox": "0 0 6 6",
+    "paths": 2,
+    "bytes": 2231
+  },
+  {
+    "name": "title",
+    "file": "ncm_title.svg",
+    "viewBox": "0 0 101 19",
+    "paths": 1,
+    "bytes": 6507
+  },
+  {
+    "name": "title_osx",
+    "file": "ncm_title_osx.svg",
+    "viewBox": "0 0 101 22",
+    "paths": 13,
+    "bytes": 23290
+  },
+  {
+    "name": "top",
+    "file": "ncm_top.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1886
+  },
+  {
+    "name": "topic",
+    "file": "ncm_topic.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5242
+  },
+  {
+    "name": "transcoding",
+    "file": "ncm_transcoding.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1839
+  },
+  {
+    "name": "translate",
+    "file": "ncm_translate.svg",
+    "viewBox": "0 0 18 18",
+    "paths": 1,
+    "bytes": 2161
+  },
+  {
+    "name": "translate_copy",
+    "file": "ncm_translate_copy.svg",
+    "viewBox": "0 0 18 18",
+    "paths": 1,
+    "bytes": 2681
+  },
+  {
+    "name": "translate_link_jump",
+    "file": "ncm_translate_link_jump.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 603
+  },
+  {
+    "name": "translate_righ",
+    "file": "ncm_translate_righ.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 914
+  },
+  {
+    "name": "translation",
+    "file": "ncm_translation.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 8672
+  },
+  {
+    "name": "tv",
+    "file": "ncm_tv.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 3986
+  },
+  {
+    "name": "unfold",
+    "file": "ncm_unfold.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 639
+  },
+  {
+    "name": "unknowDevice",
+    "file": "ncm_unknowDevice.svg",
+    "viewBox": "0 0 30 30",
+    "paths": 1,
+    "bytes": 9520
+  },
+  {
+    "name": "upload",
+    "file": "ncm_upload.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 4082
+  },
+  {
+    "name": "user_music_pkg",
+    "file": "ncm_user_music_pkg.svg",
+    "viewBox": "0 0 16 16",
+    "paths": 3,
+    "bytes": 767
+  },
+  {
+    "name": "user_music_pkg_white",
+    "file": "ncm_user_music_pkg_white.svg",
+    "viewBox": "0 0 16 16",
+    "paths": 1,
+    "bytes": 4149
+  },
+  {
+    "name": "user_pkg_comment",
+    "file": "ncm_user_pkg_comment.svg",
+    "viewBox": "0 0 14 14",
+    "paths": 3,
+    "bytes": 627
+  },
+  {
+    "name": "video_loading",
+    "file": "ncm_video_loading.svg",
+    "viewBox": "0 0 64 64",
+    "paths": 1,
+    "bytes": 5073
+  },
+  {
+    "name": "view_counts",
+    "file": "ncm_view_counts.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 1618
+  },
+  {
+    "name": "view-mode",
+    "file": "ncm_view-mode.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5180
+  },
+  {
+    "name": "viewmore",
+    "file": "ncm_viewmore.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 633
+  },
+  {
+    "name": "vinylvip_daily",
+    "file": "ncm_vinylvip_daily.svg",
+    "viewBox": "0 0 28 13",
+    "paths": 2,
+    "bytes": 1365
+  },
+  {
+    "name": "vip",
+    "file": "ncm_vip.svg",
+    "viewBox": "0 0 19 13",
+    "paths": 2,
+    "bytes": 936
+  },
+  {
+    "name": "vip_audio",
+    "file": "ncm_vip_audio.svg",
+    "viewBox": "0 0 36 20",
+    "paths": 2,
+    "bytes": 4999
+  },
+  {
+    "name": "vip_comment",
+    "file": "ncm_vip_comment.svg",
+    "viewBox": "0 0 26 14",
+    "paths": 2,
+    "bytes": 1101
+  },
+  {
+    "name": "vip_comment_1",
+    "file": "ncm_vip_comment_1.svg",
+    "viewBox": "0 0 40 14",
+    "paths": 3,
+    "bytes": 1559
+  },
+  {
+    "name": "vip_comment_2",
+    "file": "ncm_vip_comment_2.svg",
+    "viewBox": "0 0 40 14",
+    "paths": 3,
+    "bytes": 2055
+  },
+  {
+    "name": "vip_comment_3",
+    "file": "ncm_vip_comment_3.svg",
+    "viewBox": "0 0 40 14",
+    "paths": 3,
+    "bytes": 1978
+  },
+  {
+    "name": "vip_comment_4",
+    "file": "ncm_vip_comment_4.svg",
+    "viewBox": "0 0 40 14",
+    "paths": 3,
+    "bytes": 2012
+  },
+  {
+    "name": "vip_comment_5",
+    "file": "ncm_vip_comment_5.svg",
+    "viewBox": "0 0 40 14",
+    "paths": 3,
+    "bytes": 1519
+  },
+  {
+    "name": "vip_comment_6",
+    "file": "ncm_vip_comment_6.svg",
+    "viewBox": "0 0 40 14",
+    "paths": 3,
+    "bytes": 1783
+  },
+  {
+    "name": "vip_comment_7",
+    "file": "ncm_vip_comment_7.svg",
+    "viewBox": "0 0 40 14",
+    "paths": 3,
+    "bytes": 2144
+  },
+  {
+    "name": "vip_default",
+    "file": "ncm_vip_default.svg",
+    "viewBox": "0 0 29 16",
+    "paths": 2,
+    "bytes": 1353
+  },
+  {
+    "name": "vip_free_text",
+    "file": "ncm_vip_free_text.svg",
+    "viewBox": "0 0 88 16",
+    "paths": 3,
+    "bytes": 9286
+  },
+  {
+    "name": "vip_level_1",
+    "file": "ncm_vip_level_1.svg",
+    "viewBox": "0 0 42 16",
+    "paths": 2,
+    "bytes": 2073
+  },
+  {
+    "name": "vip_level_2",
+    "file": "ncm_vip_level_2.svg",
+    "viewBox": "0 0 42 16",
+    "paths": 2,
+    "bytes": 2705
+  },
+  {
+    "name": "vip_level_3",
+    "file": "ncm_vip_level_3.svg",
+    "viewBox": "0 0 42 16",
+    "paths": 2,
+    "bytes": 2643
+  },
+  {
+    "name": "vip_level_4",
+    "file": "ncm_vip_level_4.svg",
+    "viewBox": "0 0 42 16",
+    "paths": 2,
+    "bytes": 2556
+  },
+  {
+    "name": "vip_level_5",
+    "file": "ncm_vip_level_5.svg",
+    "viewBox": "0 0 42 16",
+    "paths": 2,
+    "bytes": 2013
+  },
+  {
+    "name": "vip_level_6",
+    "file": "ncm_vip_level_6.svg",
+    "viewBox": "0 0 42 16",
+    "paths": 2,
+    "bytes": 2331
+  },
+  {
+    "name": "vip_level_7",
+    "file": "ncm_vip_level_7.svg",
+    "viewBox": "0 0 42 16",
+    "paths": 2,
+    "bytes": 2789
+  },
+  {
+    "name": "vip_open",
+    "file": "ncm_vip_open.svg",
+    "viewBox": "0 0 53 16",
+    "paths": 7,
+    "bytes": 3966
+  },
+  {
+    "name": "vip_remain_1",
+    "file": "ncm_vip_remain_1.svg",
+    "viewBox": "0 0 68 16",
+    "paths": 3,
+    "bytes": 3951
+  },
+  {
+    "name": "vip_remain_2",
+    "file": "ncm_vip_remain_2.svg",
+    "viewBox": "0 0 68 16",
+    "paths": 3,
+    "bytes": 4806
+  },
+  {
+    "name": "vip_remain_3",
+    "file": "ncm_vip_remain_3.svg",
+    "viewBox": "0 0 68 16",
+    "paths": 3,
+    "bytes": 5537
+  },
+  {
+    "name": "vip_remain_4",
+    "file": "ncm_vip_remain_4.svg",
+    "viewBox": "0 0 68 16",
+    "paths": 3,
+    "bytes": 4036
+  },
+  {
+    "name": "vip_remain_5",
+    "file": "ncm_vip_remain_5.svg",
+    "viewBox": "0 0 68 16",
+    "paths": 3,
+    "bytes": 4959
+  },
+  {
+    "name": "vip_remain_6",
+    "file": "ncm_vip_remain_6.svg",
+    "viewBox": "0 0 68 16",
+    "paths": 3,
+    "bytes": 5660
+  },
+  {
+    "name": "vip_remain_7",
+    "file": "ncm_vip_remain_7.svg",
+    "viewBox": "0 0 68 16",
+    "paths": 3,
+    "bytes": 3948
+  },
+  {
+    "name": "vip_renew",
+    "file": "ncm_vip_renew.svg",
+    "viewBox": "0 0 53 16",
+    "paths": 7,
+    "bytes": 5240
+  },
+  {
+    "name": "volume",
+    "file": "ncm_volume.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 4523
+  },
+  {
+    "name": "Volume0",
+    "file": "ncm_Volume0.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 1397
+  },
+  {
+    "name": "Volume1",
+    "file": "ncm_Volume1.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 2171
+  },
+  {
+    "name": "Volume2",
+    "file": "ncm_Volume2.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 2230
+  },
+  {
+    "name": "Volume3",
+    "file": "ncm_Volume3.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 3,
+    "bytes": 3617
+  },
+  {
+    "name": "watch",
+    "file": "ncm_watch.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 6342
+  },
+  {
+    "name": "wechat",
+    "file": "ncm_wechat.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 7,
+    "bytes": 12598
+  },
+  {
+    "name": "weibo",
+    "file": "ncm_weibo.svg",
+    "viewBox": "0 0 41 40",
+    "paths": 1,
+    "bytes": 2342
+  },
+  {
+    "name": "welfare_center",
+    "file": "ncm_welfare_center.svg",
+    "viewBox": "0 0 25 25",
+    "paths": 1,
+    "bytes": 2288
+  },
+  {
+    "name": "whalesound",
+    "file": "ncm_whalesound.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1120
+  },
+  {
+    "name": "whaleSound",
+    "file": "ncm_whaleSound.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 5879
+  },
+  {
+    "name": "whaleSoundOn",
+    "file": "ncm_whaleSoundOn.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 7894
+  },
+  {
+    "name": "whaleSoundVip",
+    "file": "ncm_whaleSoundVip.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 8859
+  },
+  {
+    "name": "window_close",
+    "file": "ncm_window_close.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 2,
+    "bytes": 184
+  },
+  {
+    "name": "windows",
+    "file": "ncm_windows.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 1379
+  },
+  {
+    "name": "wxpay",
+    "file": "ncm_wxpay.svg",
+    "viewBox": "0 0 30 30",
+    "paths": 1,
+    "bytes": 519
+  },
+  {
+    "name": "xpoint",
+    "file": "ncm_xpoint.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 582
+  },
+  {
+    "name": "zoom_out",
+    "file": "ncm_zoom_out.svg",
+    "viewBox": "0 0 24 24",
+    "paths": 1,
+    "bytes": 2580
+  }
+]

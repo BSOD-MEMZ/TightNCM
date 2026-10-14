@@ -1,0 +1,413 @@
+<!-- 自动生成，请勿手改 —— 由 research/gen-qrc.mjs 产出 -->
+<RCC>
+  <qresource prefix="/">
+    <file>qml/Blank.qml</file>
+    <file>qml/Main.qml</file>
+    <file>qml/Metrics.qml</file>
+    <file>qml/Theme.qml</file>
+    <file>qml/pages/ArtistPage.qml</file>
+    <file>qml/pages/CmdTabs.qml</file>
+    <file>qml/pages/FeaturedPage.qml</file>
+    <file>qml/pages/FmPage.qml</file>
+    <file>qml/pages/HomePage.qml</file>
+    <file>qml/pages/PageHost.qml</file>
+    <file>qml/pages/PlaylistDetailPage.qml</file>
+    <file>qml/pages/PlaylistHeader.qml</file>
+    <file>qml/pages/PodcastPage.qml</file>
+    <file>qml/pages/RecentPage.qml</file>
+    <file>qml/pages/SearchPage.qml</file>
+    <file>qml/pages/SettingsPage.qml</file>
+    <file>qml/pages/SongList.qml</file>
+    <file>qml/pages/SongRow.qml</file>
+    <file>qml/pages/SongTableHeader.qml</file>
+    <file>qml/pages/StubPage.qml</file>
+    <file>qml/pages/ToplistPage.qml</file>
+    <file>qml/pages/UserProfilePage.qml</file>
+    <file>qml/shell/CommentsPanel.qml</file>
+    <file>qml/shell/LoginOverlay.qml</file>
+    <file>qml/shell/LyricPanel.qml</file>
+    <file>qml/shell/NavItem.qml</file>
+    <file>qml/shell/NowPlayingPanel.qml</file>
+    <file>qml/shell/PlayBar.qml</file>
+    <file>qml/shell/PlayQueuePanel.qml</file>
+    <file>qml/shell/PlaylistItem.qml</file>
+    <file>qml/shell/SearchBox.qml</file>
+    <file>qml/shell/SectionHeader.qml</file>
+    <file>qml/shell/SideBar.qml</file>
+    <file>qml/shell/TopBar.qml</file>
+    <file>qml/shell/VipBadge.qml</file>
+    <file>qml/widgets/AngleGradientRect.qml</file>
+    <file>qml/widgets/CardGrid.qml</file>
+    <file>qml/widgets/CircleMask.qml</file>
+    <file>qml/widgets/CmdButton.qml</file>
+    <file>qml/widgets/CoverTint.qml</file>
+    <file>qml/widgets/Icon.qml</file>
+    <file>qml/widgets/PlaylistCard.qml</file>
+    <file>qml/widgets/RoundRect.qml</file>
+    <file>qml/widgets/ScrollColumn.qml</file>
+    <file>qml/widgets/SectionTitle.qml</file>
+    <file>qml/widgets/SettingRow.qml</file>
+    <file>qml/widgets/SettingSegmented.qml</file>
+    <file>qml/widgets/SettingSwitch.qml</file>
+    <file>qml/widgets/ShadowBox.qml</file>
+    <file>qml/widgets/VStack.qml</file>
+  </qresource>
+  <qresource prefix="/icons">
+    <file alias="icon_0629cc51ae.svg">assets/icons-svg/icon_0629cc51ae.svg</file>
+    <file alias="icon_d3bf97bd7c.svg">assets/icons-svg/icon_d3bf97bd7c.svg</file>
+    <file alias="ncm_15sForward.svg">assets/icons-svg/ncm_15sForward.svg</file>
+    <file alias="ncm_30sLater.svg">assets/icons-svg/ncm_30sLater.svg</file>
+    <file alias="ncm_5s-forward.svg">assets/icons-svg/ncm_5s-forward.svg</file>
+    <file alias="ncm_5s-later.svg">assets/icons-svg/ncm_5s-later.svg</file>
+    <file alias="ncm_Volume0.svg">assets/icons-svg/ncm_Volume0.svg</file>
+    <file alias="ncm_Volume1.svg">assets/icons-svg/ncm_Volume1.svg</file>
+    <file alias="ncm_Volume2.svg">assets/icons-svg/ncm_Volume2.svg</file>
+    <file alias="ncm_Volume3.svg">assets/icons-svg/ncm_Volume3.svg</file>
+    <file alias="ncm_add.svg">assets/icons-svg/ncm_add.svg</file>
+    <file alias="ncm_add_to_playlist.svg">assets/icons-svg/ncm_add_to_playlist.svg</file>
+    <file alias="ncm_addall.svg">assets/icons-svg/ncm_addall.svg</file>
+    <file alias="ncm_alipay.svg">assets/icons-svg/ncm_alipay.svg</file>
+    <file alias="ncm_android.svg">assets/icons-svg/ncm_android.svg</file>
+    <file alias="ncm_apple.svg">assets/icons-svg/ncm_apple.svg</file>
+    <file alias="ncm_at.svg">assets/icons-svg/ncm_at.svg</file>
+    <file alias="ncm_back.svg">assets/icons-svg/ncm_back.svg</file>
+    <file alias="ncm_back_to_top.svg">assets/icons-svg/ncm_back_to_top.svg</file>
+    <file alias="ncm_backward.svg">assets/icons-svg/ncm_backward.svg</file>
+    <file alias="ncm_batch.svg">assets/icons-svg/ncm_batch.svg</file>
+    <file alias="ncm_blacklist.svg">assets/icons-svg/ncm_blacklist.svg</file>
+    <file alias="ncm_buy.svg">assets/icons-svg/ncm_buy.svg</file>
+    <file alias="ncm_car.svg">assets/icons-svg/ncm_car.svg</file>
+    <file alias="ncm_cellphone.svg">assets/icons-svg/ncm_cellphone.svg</file>
+    <file alias="ncm_chat.svg">assets/icons-svg/ncm_chat.svg</file>
+    <file alias="ncm_check.svg">assets/icons-svg/ncm_check.svg</file>
+    <file alias="ncm_checked.svg">assets/icons-svg/ncm_checked.svg</file>
+    <file alias="ncm_close.svg">assets/icons-svg/ncm_close.svg</file>
+    <file alias="ncm_clouddisk.svg">assets/icons-svg/ncm_clouddisk.svg</file>
+    <file alias="ncm_clouddiskAndDownload.svg">assets/icons-svg/ncm_clouddiskAndDownload.svg</file>
+    <file alias="ncm_collect.svg">assets/icons-svg/ncm_collect.svg</file>
+    <file alias="ncm_collected.svg">assets/icons-svg/ncm_collected.svg</file>
+    <file alias="ncm_comma.svg">assets/icons-svg/ncm_comma.svg</file>
+    <file alias="ncm_comment.svg">assets/icons-svg/ncm_comment.svg</file>
+    <file alias="ncm_comment_number.svg">assets/icons-svg/ncm_comment_number.svg</file>
+    <file alias="ncm_community.svg">assets/icons-svg/ncm_community.svg</file>
+    <file alias="ncm_copy.svg">assets/icons-svg/ncm_copy.svg</file>
+    <file alias="ncm_correct.svg">assets/icons-svg/ncm_correct.svg</file>
+    <file alias="ncm_correct_select.svg">assets/icons-svg/ncm_correct_select.svg</file>
+    <file alias="ncm_curren_page.svg">assets/icons-svg/ncm_curren_page.svg</file>
+    <file alias="ncm_date1.svg">assets/icons-svg/ncm_date1.svg</file>
+    <file alias="ncm_date10.svg">assets/icons-svg/ncm_date10.svg</file>
+    <file alias="ncm_date11.svg">assets/icons-svg/ncm_date11.svg</file>
+    <file alias="ncm_date12.svg">assets/icons-svg/ncm_date12.svg</file>
+    <file alias="ncm_date13.svg">assets/icons-svg/ncm_date13.svg</file>
+    <file alias="ncm_date14.svg">assets/icons-svg/ncm_date14.svg</file>
+    <file alias="ncm_date15.svg">assets/icons-svg/ncm_date15.svg</file>
+    <file alias="ncm_date16.svg">assets/icons-svg/ncm_date16.svg</file>
+    <file alias="ncm_date17.svg">assets/icons-svg/ncm_date17.svg</file>
+    <file alias="ncm_date18.svg">assets/icons-svg/ncm_date18.svg</file>
+    <file alias="ncm_date19.svg">assets/icons-svg/ncm_date19.svg</file>
+    <file alias="ncm_date2.svg">assets/icons-svg/ncm_date2.svg</file>
+    <file alias="ncm_date20.svg">assets/icons-svg/ncm_date20.svg</file>
+    <file alias="ncm_date21.svg">assets/icons-svg/ncm_date21.svg</file>
+    <file alias="ncm_date22.svg">assets/icons-svg/ncm_date22.svg</file>
+    <file alias="ncm_date23.svg">assets/icons-svg/ncm_date23.svg</file>
+    <file alias="ncm_date24.svg">assets/icons-svg/ncm_date24.svg</file>
+    <file alias="ncm_date25.svg">assets/icons-svg/ncm_date25.svg</file>
+    <file alias="ncm_date26.svg">assets/icons-svg/ncm_date26.svg</file>
+    <file alias="ncm_date27.svg">assets/icons-svg/ncm_date27.svg</file>
+    <file alias="ncm_date28.svg">assets/icons-svg/ncm_date28.svg</file>
+    <file alias="ncm_date29.svg">assets/icons-svg/ncm_date29.svg</file>
+    <file alias="ncm_date3.svg">assets/icons-svg/ncm_date3.svg</file>
+    <file alias="ncm_date30.svg">assets/icons-svg/ncm_date30.svg</file>
+    <file alias="ncm_date31.svg">assets/icons-svg/ncm_date31.svg</file>
+    <file alias="ncm_date4.svg">assets/icons-svg/ncm_date4.svg</file>
+    <file alias="ncm_date5.svg">assets/icons-svg/ncm_date5.svg</file>
+    <file alias="ncm_date6.svg">assets/icons-svg/ncm_date6.svg</file>
+    <file alias="ncm_date7.svg">assets/icons-svg/ncm_date7.svg</file>
+    <file alias="ncm_date8.svg">assets/icons-svg/ncm_date8.svg</file>
+    <file alias="ncm_date9.svg">assets/icons-svg/ncm_date9.svg</file>
+    <file alias="ncm_date_default.svg">assets/icons-svg/ncm_date_default.svg</file>
+    <file alias="ncm_decline.svg">assets/icons-svg/ncm_decline.svg</file>
+    <file alias="ncm_default-sort.svg">assets/icons-svg/ncm_default-sort.svg</file>
+    <file alias="ncm_default.svg">assets/icons-svg/ncm_default.svg</file>
+    <file alias="ncm_delete.svg">assets/icons-svg/ncm_delete.svg</file>
+    <file alias="ncm_delete_history.svg">assets/icons-svg/ncm_delete_history.svg</file>
+    <file alias="ncm_delete_tag.svg">assets/icons-svg/ncm_delete_tag.svg</file>
+    <file alias="ncm_dislike.svg">assets/icons-svg/ncm_dislike.svg</file>
+    <file alias="ncm_dldok.svg">assets/icons-svg/ncm_dldok.svg</file>
+    <file alias="ncm_dolby_12.svg">assets/icons-svg/ncm_dolby_12.svg</file>
+    <file alias="ncm_dolby_16.svg">assets/icons-svg/ncm_dolby_16.svg</file>
+    <file alias="ncm_dolby_no_outline.svg">assets/icons-svg/ncm_dolby_no_outline.svg</file>
+    <file alias="ncm_done.svg">assets/icons-svg/ncm_done.svg</file>
+    <file alias="ncm_doubt.svg">assets/icons-svg/ncm_doubt.svg</file>
+    <file alias="ncm_download.svg">assets/icons-svg/ncm_download.svg</file>
+    <file alias="ncm_download3.svg">assets/icons-svg/ncm_download3.svg</file>
+    <file alias="ncm_downloading.svg">assets/icons-svg/ncm_downloading.svg</file>
+    <file alias="ncm_drag-list.svg">assets/icons-svg/ncm_drag-list.svg</file>
+    <file alias="ncm_drag_list.svg">assets/icons-svg/ncm_drag_list.svg</file>
+    <file alias="ncm_dropdown.svg">assets/icons-svg/ncm_dropdown.svg</file>
+    <file alias="ncm_dubbing.svg">assets/icons-svg/ncm_dubbing.svg</file>
+    <file alias="ncm_edit.svg">assets/icons-svg/ncm_edit.svg</file>
+    <file alias="ncm_editbg.svg">assets/icons-svg/ncm_editbg.svg</file>
+    <file alias="ncm_editing.svg">assets/icons-svg/ncm_editing.svg</file>
+    <file alias="ncm_emoji.svg">assets/icons-svg/ncm_emoji.svg</file>
+    <file alias="ncm_error.svg">assets/icons-svg/ncm_error.svg</file>
+    <file alias="ncm_essential_playlist.svg">assets/icons-svg/ncm_essential_playlist.svg</file>
+    <file alias="ncm_exit.svg">assets/icons-svg/ncm_exit.svg</file>
+    <file alias="ncm_explicit.svg">assets/icons-svg/ncm_explicit.svg</file>
+    <file alias="ncm_favoritePlaylist.svg">assets/icons-svg/ncm_favoritePlaylist.svg</file>
+    <file alias="ncm_favourite.svg">assets/icons-svg/ncm_favourite.svg</file>
+    <file alias="ncm_featured.svg">assets/icons-svg/ncm_featured.svg</file>
+    <file alias="ncm_female.svg">assets/icons-svg/ncm_female.svg</file>
+    <file alias="ncm_file.svg">assets/icons-svg/ncm_file.svg</file>
+    <file alias="ncm_flat.svg">assets/icons-svg/ncm_flat.svg</file>
+    <file alias="ncm_font_size.svg">assets/icons-svg/ncm_font_size.svg</file>
+    <file alias="ncm_forward.svg">assets/icons-svg/ncm_forward.svg</file>
+    <file alias="ncm_free.svg">assets/icons-svg/ncm_free.svg</file>
+    <file alias="ncm_fromCloudDisk.svg">assets/icons-svg/ncm_fromCloudDisk.svg</file>
+    <file alias="ncm_fullscreen.svg">assets/icons-svg/ncm_fullscreen.svg</file>
+    <file alias="ncm_fullscreen_new.svg">assets/icons-svg/ncm_fullscreen_new.svg</file>
+    <file alias="ncm_handle_no-anima.svg">assets/icons-svg/ncm_handle_no-anima.svg</file>
+    <file alias="ncm_heartbeat.svg">assets/icons-svg/ncm_heartbeat.svg</file>
+    <file alias="ncm_help.svg">assets/icons-svg/ncm_help.svg</file>
+    <file alias="ncm_hi_res.svg">assets/icons-svg/ncm_hi_res.svg</file>
+    <file alias="ncm_hires.svg">assets/icons-svg/ncm_hires.svg</file>
+    <file alias="ncm_hires_medium.svg">assets/icons-svg/ncm_hires_medium.svg</file>
+    <file alias="ncm_history.svg">assets/icons-svg/ncm_history.svg</file>
+    <file alias="ncm_home.svg">assets/icons-svg/ncm_home.svg</file>
+    <file alias="ncm_hq.svg">assets/icons-svg/ncm_hq.svg</file>
+    <file alias="ncm_hq_medium.svg">assets/icons-svg/ncm_hq_medium.svg</file>
+    <file alias="ncm_imagetext.svg">assets/icons-svg/ncm_imagetext.svg</file>
+    <file alias="ncm_inaccurate.svg">assets/icons-svg/ncm_inaccurate.svg</file>
+    <file alias="ncm_infinite.svg">assets/icons-svg/ncm_infinite.svg</file>
+    <file alias="ncm_information.svg">assets/icons-svg/ncm_information.svg</file>
+    <file alias="ncm_install_fail.svg">assets/icons-svg/ncm_install_fail.svg</file>
+    <file alias="ncm_install_success.svg">assets/icons-svg/ncm_install_success.svg</file>
+    <file alias="ncm_jyeffect.svg">assets/icons-svg/ncm_jyeffect.svg</file>
+    <file alias="ncm_jyeffect_medium.svg">assets/icons-svg/ncm_jyeffect_medium.svg</file>
+    <file alias="ncm_jymaster.svg">assets/icons-svg/ncm_jymaster.svg</file>
+    <file alias="ncm_jymaster_medium.svg">assets/icons-svg/ncm_jymaster_medium.svg</file>
+    <file alias="ncm_level.svg">assets/icons-svg/ncm_level.svg</file>
+    <file alias="ncm_lifted.svg">assets/icons-svg/ncm_lifted.svg</file>
+    <file alias="ncm_like.svg">assets/icons-svg/ncm_like.svg</file>
+    <file alias="ncm_like_number.svg">assets/icons-svg/ncm_like_number.svg</file>
+    <file alias="ncm_like_vinyl.svg">assets/icons-svg/ncm_like_vinyl.svg</file>
+    <file alias="ncm_likenumber_red.svg">assets/icons-svg/ncm_likenumber_red.svg</file>
+    <file alias="ncm_list-mode.svg">assets/icons-svg/ncm_list-mode.svg</file>
+    <file alias="ncm_listenTogether.svg">assets/icons-svg/ncm_listenTogether.svg</file>
+    <file alias="ncm_loading.svg">assets/icons-svg/ncm_loading.svg</file>
+    <file alias="ncm_local.svg">assets/icons-svg/ncm_local.svg</file>
+    <file alias="ncm_locate.svg">assets/icons-svg/ncm_locate.svg</file>
+    <file alias="ncm_login_back.svg">assets/icons-svg/ncm_login_back.svg</file>
+    <file alias="ncm_login_close.svg">assets/icons-svg/ncm_login_close.svg</file>
+    <file alias="ncm_logo.svg">assets/icons-svg/ncm_logo.svg</file>
+    <file alias="ncm_logo_osx.svg">assets/icons-svg/ncm_logo_osx.svg</file>
+    <file alias="ncm_loop.svg">assets/icons-svg/ncm_loop.svg</file>
+    <file alias="ncm_lyric.svg">assets/icons-svg/ncm_lyric.svg</file>
+    <file alias="ncm_lyric_on.svg">assets/icons-svg/ncm_lyric_on.svg</file>
+    <file alias="ncm_lyrics.svg">assets/icons-svg/ncm_lyrics.svg</file>
+    <file alias="ncm_mac-close.svg">assets/icons-svg/ncm_mac-close.svg</file>
+    <file alias="ncm_mac-fullscreen.svg">assets/icons-svg/ncm_mac-fullscreen.svg</file>
+    <file alias="ncm_mac-maximize.svg">assets/icons-svg/ncm_mac-maximize.svg</file>
+    <file alias="ncm_mac-minimize.svg">assets/icons-svg/ncm_mac-minimize.svg</file>
+    <file alias="ncm_mac-zoomout.svg">assets/icons-svg/ncm_mac-zoomout.svg</file>
+    <file alias="ncm_mac.svg">assets/icons-svg/ncm_mac.svg</file>
+    <file alias="ncm_male.svg">assets/icons-svg/ncm_male.svg</file>
+    <file alias="ncm_mall.svg">assets/icons-svg/ncm_mall.svg</file>
+    <file alias="ncm_master.svg">assets/icons-svg/ncm_master.svg</file>
+    <file alias="ncm_match.svg">assets/icons-svg/ncm_match.svg</file>
+    <file alias="ncm_maximize.svg">assets/icons-svg/ncm_maximize.svg</file>
+    <file alias="ncm_member.svg">assets/icons-svg/ncm_member.svg</file>
+    <file alias="ncm_message.svg">assets/icons-svg/ncm_message.svg</file>
+    <file alias="ncm_mini.svg">assets/icons-svg/ncm_mini.svg</file>
+    <file alias="ncm_minimize.svg">assets/icons-svg/ncm_minimize.svg</file>
+    <file alias="ncm_more.svg">assets/icons-svg/ncm_more.svg</file>
+    <file alias="ncm_morefunctions.svg">assets/icons-svg/ncm_morefunctions.svg</file>
+    <file alias="ncm_music.svg">assets/icons-svg/ncm_music.svg</file>
+    <file alias="ncm_mute.svg">assets/icons-svg/ncm_mute.svg</file>
+    <file alias="ncm_mutual-concern.svg">assets/icons-svg/ncm_mutual-concern.svg</file>
+    <file alias="ncm_my-podcast.svg">assets/icons-svg/ncm_my-podcast.svg</file>
+    <file alias="ncm_navswitch.svg">assets/icons-svg/ncm_navswitch.svg</file>
+    <file alias="ncm_netease.svg">assets/icons-svg/ncm_netease.svg</file>
+    <file alias="ncm_neteasemusic.svg">assets/icons-svg/ncm_neteasemusic.svg</file>
+    <file alias="ncm_new_lyric.svg">assets/icons-svg/ncm_new_lyric.svg</file>
+    <file alias="ncm_newon.svg">assets/icons-svg/ncm_newon.svg</file>
+    <file alias="ncm_newsong.svg">assets/icons-svg/ncm_newsong.svg</file>
+    <file alias="ncm_next.svg">assets/icons-svg/ncm_next.svg</file>
+    <file alias="ncm_next3.svg">assets/icons-svg/ncm_next3.svg</file>
+    <file alias="ncm_next_song.svg">assets/icons-svg/ncm_next_song.svg</file>
+    <file alias="ncm_open_file.svg">assets/icons-svg/ncm_open_file.svg</file>
+    <file alias="ncm_order.svg">assets/icons-svg/ncm_order.svg</file>
+    <file alias="ncm_pad.svg">assets/icons-svg/ncm_pad.svg</file>
+    <file alias="ncm_pause.svg">assets/icons-svg/ncm_pause.svg</file>
+    <file alias="ncm_pause2.svg">assets/icons-svg/ncm_pause2.svg</file>
+    <file alias="ncm_pause_desktop_comment.svg">assets/icons-svg/ncm_pause_desktop_comment.svg</file>
+    <file alias="ncm_pause_desktop_comment_2.svg">assets/icons-svg/ncm_pause_desktop_comment_2.svg</file>
+    <file alias="ncm_pc.svg">assets/icons-svg/ncm_pc.svg</file>
+    <file alias="ncm_phone_confirm.svg">assets/icons-svg/ncm_phone_confirm.svg</file>
+    <file alias="ncm_play.svg">assets/icons-svg/ncm_play.svg</file>
+    <file alias="ncm_play2.svg">assets/icons-svg/ncm_play2.svg</file>
+    <file alias="ncm_play_desktop_comment.svg">assets/icons-svg/ncm_play_desktop_comment.svg</file>
+    <file alias="ncm_play_desktop_comment_2.svg">assets/icons-svg/ncm_play_desktop_comment_2.svg</file>
+    <file alias="ncm_player-mode.svg">assets/icons-svg/ncm_player-mode.svg</file>
+    <file alias="ncm_playing.svg">assets/icons-svg/ncm_playing.svg</file>
+    <file alias="ncm_playing1.svg">assets/icons-svg/ncm_playing1.svg</file>
+    <file alias="ncm_playlist.svg">assets/icons-svg/ncm_playlist.svg</file>
+    <file alias="ncm_plus.svg">assets/icons-svg/ncm_plus.svg</file>
+    <file alias="ncm_podcast.svg">assets/icons-svg/ncm_podcast.svg</file>
+    <file alias="ncm_point.svg">assets/icons-svg/ncm_point.svg</file>
+    <file alias="ncm_post.svg">assets/icons-svg/ncm_post.svg</file>
+    <file alias="ncm_praise.svg">assets/icons-svg/ncm_praise.svg</file>
+    <file alias="ncm_pre.svg">assets/icons-svg/ncm_pre.svg</file>
+    <file alias="ncm_privacy.svg">assets/icons-svg/ncm_privacy.svg</file>
+    <file alias="ncm_privateFm.svg">assets/icons-svg/ncm_privateFm.svg</file>
+    <file alias="ncm_problem.svg">assets/icons-svg/ncm_problem.svg</file>
+    <file alias="ncm_qq.svg">assets/icons-svg/ncm_qq.svg</file>
+    <file alias="ncm_rankflat.svg">assets/icons-svg/ncm_rankflat.svg</file>
+    <file alias="ncm_rbackward.svg">assets/icons-svg/ncm_rbackward.svg</file>
+    <file alias="ncm_refresh.svg">assets/icons-svg/ncm_refresh.svg</file>
+    <file alias="ncm_replay.svg">assets/icons-svg/ncm_replay.svg</file>
+    <file alias="ncm_report.svg">assets/icons-svg/ncm_report.svg</file>
+    <file alias="ncm_restore.svg">assets/icons-svg/ncm_restore.svg</file>
+    <file alias="ncm_return.svg">assets/icons-svg/ncm_return.svg</file>
+    <file alias="ncm_rise.svg">assets/icons-svg/ncm_rise.svg</file>
+    <file alias="ncm_roman.svg">assets/icons-svg/ncm_roman.svg</file>
+    <file alias="ncm_scan.svg">assets/icons-svg/ncm_scan.svg</file>
+    <file alias="ncm_search.svg">assets/icons-svg/ncm_search.svg</file>
+    <file alias="ncm_service.svg">assets/icons-svg/ncm_service.svg</file>
+    <file alias="ncm_setting.svg">assets/icons-svg/ncm_setting.svg</file>
+    <file alias="ncm_setting_thin.svg">assets/icons-svg/ncm_setting_thin.svg</file>
+    <file alias="ncm_share.svg">assets/icons-svg/ncm_share.svg</file>
+    <file alias="ncm_share_message.svg">assets/icons-svg/ncm_share_message.svg</file>
+    <file alias="ncm_share_music.svg">assets/icons-svg/ncm_share_music.svg</file>
+    <file alias="ncm_share_qq.svg">assets/icons-svg/ncm_share_qq.svg</file>
+    <file alias="ncm_share_qzone.svg">assets/icons-svg/ncm_share_qzone.svg</file>
+    <file alias="ncm_share_source.svg">assets/icons-svg/ncm_share_source.svg</file>
+    <file alias="ncm_share_wechat.svg">assets/icons-svg/ncm_share_wechat.svg</file>
+    <file alias="ncm_share_weibo.svg">assets/icons-svg/ncm_share_weibo.svg</file>
+    <file alias="ncm_shortcut.svg">assets/icons-svg/ncm_shortcut.svg</file>
+    <file alias="ncm_shuffle.svg">assets/icons-svg/ncm_shuffle.svg</file>
+    <file alias="ncm_sidebar_add.svg">assets/icons-svg/ncm_sidebar_add.svg</file>
+    <file alias="ncm_sidebar_clouddisk.svg">assets/icons-svg/ncm_sidebar_clouddisk.svg</file>
+    <file alias="ncm_sidebar_community.svg">assets/icons-svg/ncm_sidebar_community.svg</file>
+    <file alias="ncm_sidebar_edit.svg">assets/icons-svg/ncm_sidebar_edit.svg</file>
+    <file alias="ncm_sidebar_favourite.svg">assets/icons-svg/ncm_sidebar_favourite.svg</file>
+    <file alias="ncm_sidebar_featured.svg">assets/icons-svg/ncm_sidebar_featured.svg</file>
+    <file alias="ncm_sidebar_fm.svg">assets/icons-svg/ncm_sidebar_fm.svg</file>
+    <file alias="ncm_sidebar_heartbeat.svg">assets/icons-svg/ncm_sidebar_heartbeat.svg</file>
+    <file alias="ncm_sidebar_history.svg">assets/icons-svg/ncm_sidebar_history.svg</file>
+    <file alias="ncm_sidebar_home.svg">assets/icons-svg/ncm_sidebar_home.svg</file>
+    <file alias="ncm_sidebar_like.svg">assets/icons-svg/ncm_sidebar_like.svg</file>
+    <file alias="ncm_sidebar_localdownload.svg">assets/icons-svg/ncm_sidebar_localdownload.svg</file>
+    <file alias="ncm_sidebar_my_podcast.svg">assets/icons-svg/ncm_sidebar_my_podcast.svg</file>
+    <file alias="ncm_sidebar_podcast.svg">assets/icons-svg/ncm_sidebar_podcast.svg</file>
+    <file alias="ncm_sidebar_slide_up.svg">assets/icons-svg/ncm_sidebar_slide_up.svg</file>
+    <file alias="ncm_sidebar_sticky.svg">assets/icons-svg/ncm_sidebar_sticky.svg</file>
+    <file alias="ncm_sidebar_unfold.svg">assets/icons-svg/ncm_sidebar_unfold.svg</file>
+    <file alias="ncm_signin.svg">assets/icons-svg/ncm_signin.svg</file>
+    <file alias="ncm_signout.svg">assets/icons-svg/ncm_signout.svg</file>
+    <file alias="ncm_signout_line.svg">assets/icons-svg/ncm_signout_line.svg</file>
+    <file alias="ncm_singer.svg">assets/icons-svg/ncm_singer.svg</file>
+    <file alias="ncm_singleloop.svg">assets/icons-svg/ncm_singleloop.svg</file>
+    <file alias="ncm_skin.svg">assets/icons-svg/ncm_skin.svg</file>
+    <file alias="ncm_sky.svg">assets/icons-svg/ncm_sky.svg</file>
+    <file alias="ncm_sky_medium.svg">assets/icons-svg/ncm_sky_medium.svg</file>
+    <file alias="ncm_slide_down.svg">assets/icons-svg/ncm_slide_down.svg</file>
+    <file alias="ncm_slide_up.svg">assets/icons-svg/ncm_slide_up.svg</file>
+    <file alias="ncm_sound.svg">assets/icons-svg/ncm_sound.svg</file>
+    <file alias="ncm_soundbound.svg">assets/icons-svg/ncm_soundbound.svg</file>
+    <file alias="ncm_source.svg">assets/icons-svg/ncm_source.svg</file>
+    <file alias="ncm_source_link.svg">assets/icons-svg/ncm_source_link.svg</file>
+    <file alias="ncm_spatial_audio.svg">assets/icons-svg/ncm_spatial_audio.svg</file>
+    <file alias="ncm_sq.svg">assets/icons-svg/ncm_sq.svg</file>
+    <file alias="ncm_sq_medium.svg">assets/icons-svg/ncm_sq_medium.svg</file>
+    <file alias="ncm_standard.svg">assets/icons-svg/ncm_standard.svg</file>
+    <file alias="ncm_surround_audio.svg">assets/icons-svg/ncm_surround_audio.svg</file>
+    <file alias="ncm_svip.svg">assets/icons-svg/ncm_svip.svg</file>
+    <file alias="ncm_svip_comment.svg">assets/icons-svg/ncm_svip_comment.svg</file>
+    <file alias="ncm_svip_comment_1.svg">assets/icons-svg/ncm_svip_comment_1.svg</file>
+    <file alias="ncm_svip_comment_2.svg">assets/icons-svg/ncm_svip_comment_2.svg</file>
+    <file alias="ncm_svip_comment_3.svg">assets/icons-svg/ncm_svip_comment_3.svg</file>
+    <file alias="ncm_svip_comment_4.svg">assets/icons-svg/ncm_svip_comment_4.svg</file>
+    <file alias="ncm_svip_comment_5.svg">assets/icons-svg/ncm_svip_comment_5.svg</file>
+    <file alias="ncm_svip_comment_6.svg">assets/icons-svg/ncm_svip_comment_6.svg</file>
+    <file alias="ncm_svip_comment_7.svg">assets/icons-svg/ncm_svip_comment_7.svg</file>
+    <file alias="ncm_svip_default.svg">assets/icons-svg/ncm_svip_default.svg</file>
+    <file alias="ncm_svip_expried.svg">assets/icons-svg/ncm_svip_expried.svg</file>
+    <file alias="ncm_svip_level_1.svg">assets/icons-svg/ncm_svip_level_1.svg</file>
+    <file alias="ncm_svip_level_2.svg">assets/icons-svg/ncm_svip_level_2.svg</file>
+    <file alias="ncm_svip_level_3.svg">assets/icons-svg/ncm_svip_level_3.svg</file>
+    <file alias="ncm_svip_level_4.svg">assets/icons-svg/ncm_svip_level_4.svg</file>
+    <file alias="ncm_svip_level_5.svg">assets/icons-svg/ncm_svip_level_5.svg</file>
+    <file alias="ncm_svip_level_6.svg">assets/icons-svg/ncm_svip_level_6.svg</file>
+    <file alias="ncm_svip_level_7.svg">assets/icons-svg/ncm_svip_level_7.svg</file>
+    <file alias="ncm_swipe_left.svg">assets/icons-svg/ncm_swipe_left.svg</file>
+    <file alias="ncm_swipe_left_pagination.svg">assets/icons-svg/ncm_swipe_left_pagination.svg</file>
+    <file alias="ncm_swipe_right.svg">assets/icons-svg/ncm_swipe_right.svg</file>
+    <file alias="ncm_swipe_right_pagination.svg">assets/icons-svg/ncm_swipe_right_pagination.svg</file>
+    <file alias="ncm_switch.svg">assets/icons-svg/ncm_switch.svg</file>
+    <file alias="ncm_tagsmall.svg">assets/icons-svg/ncm_tagsmall.svg</file>
+    <file alias="ncm_title.svg">assets/icons-svg/ncm_title.svg</file>
+    <file alias="ncm_title_osx.svg">assets/icons-svg/ncm_title_osx.svg</file>
+    <file alias="ncm_top.svg">assets/icons-svg/ncm_top.svg</file>
+    <file alias="ncm_topic.svg">assets/icons-svg/ncm_topic.svg</file>
+    <file alias="ncm_transcoding.svg">assets/icons-svg/ncm_transcoding.svg</file>
+    <file alias="ncm_translate.svg">assets/icons-svg/ncm_translate.svg</file>
+    <file alias="ncm_translate_copy.svg">assets/icons-svg/ncm_translate_copy.svg</file>
+    <file alias="ncm_translate_link_jump.svg">assets/icons-svg/ncm_translate_link_jump.svg</file>
+    <file alias="ncm_translate_righ.svg">assets/icons-svg/ncm_translate_righ.svg</file>
+    <file alias="ncm_translation.svg">assets/icons-svg/ncm_translation.svg</file>
+    <file alias="ncm_tv.svg">assets/icons-svg/ncm_tv.svg</file>
+    <file alias="ncm_unfold.svg">assets/icons-svg/ncm_unfold.svg</file>
+    <file alias="ncm_unknowDevice.svg">assets/icons-svg/ncm_unknowDevice.svg</file>
+    <file alias="ncm_upload.svg">assets/icons-svg/ncm_upload.svg</file>
+    <file alias="ncm_user_music_pkg.svg">assets/icons-svg/ncm_user_music_pkg.svg</file>
+    <file alias="ncm_user_music_pkg_white.svg">assets/icons-svg/ncm_user_music_pkg_white.svg</file>
+    <file alias="ncm_user_pkg_comment.svg">assets/icons-svg/ncm_user_pkg_comment.svg</file>
+    <file alias="ncm_video_loading.svg">assets/icons-svg/ncm_video_loading.svg</file>
+    <file alias="ncm_view-mode.svg">assets/icons-svg/ncm_view-mode.svg</file>
+    <file alias="ncm_view_counts.svg">assets/icons-svg/ncm_view_counts.svg</file>
+    <file alias="ncm_viewmore.svg">assets/icons-svg/ncm_viewmore.svg</file>
+    <file alias="ncm_vinylvip_daily.svg">assets/icons-svg/ncm_vinylvip_daily.svg</file>
+    <file alias="ncm_vip.svg">assets/icons-svg/ncm_vip.svg</file>
+    <file alias="ncm_vip_audio.svg">assets/icons-svg/ncm_vip_audio.svg</file>
+    <file alias="ncm_vip_comment.svg">assets/icons-svg/ncm_vip_comment.svg</file>
+    <file alias="ncm_vip_comment_1.svg">assets/icons-svg/ncm_vip_comment_1.svg</file>
+    <file alias="ncm_vip_comment_2.svg">assets/icons-svg/ncm_vip_comment_2.svg</file>
+    <file alias="ncm_vip_comment_3.svg">assets/icons-svg/ncm_vip_comment_3.svg</file>
+    <file alias="ncm_vip_comment_4.svg">assets/icons-svg/ncm_vip_comment_4.svg</file>
+    <file alias="ncm_vip_comment_5.svg">assets/icons-svg/ncm_vip_comment_5.svg</file>
+    <file alias="ncm_vip_comment_6.svg">assets/icons-svg/ncm_vip_comment_6.svg</file>
+    <file alias="ncm_vip_comment_7.svg">assets/icons-svg/ncm_vip_comment_7.svg</file>
+    <file alias="ncm_vip_default.svg">assets/icons-svg/ncm_vip_default.svg</file>
+    <file alias="ncm_vip_free_text.svg">assets/icons-svg/ncm_vip_free_text.svg</file>
+    <file alias="ncm_vip_level_1.svg">assets/icons-svg/ncm_vip_level_1.svg</file>
+    <file alias="ncm_vip_level_2.svg">assets/icons-svg/ncm_vip_level_2.svg</file>
+    <file alias="ncm_vip_level_3.svg">assets/icons-svg/ncm_vip_level_3.svg</file>
+    <file alias="ncm_vip_level_4.svg">assets/icons-svg/ncm_vip_level_4.svg</file>
+    <file alias="ncm_vip_level_5.svg">assets/icons-svg/ncm_vip_level_5.svg</file>
+    <file alias="ncm_vip_level_6.svg">assets/icons-svg/ncm_vip_level_6.svg</file>
+    <file alias="ncm_vip_level_7.svg">assets/icons-svg/ncm_vip_level_7.svg</file>
+    <file alias="ncm_vip_open.svg">assets/icons-svg/ncm_vip_open.svg</file>
+    <file alias="ncm_vip_remain_1.svg">assets/icons-svg/ncm_vip_remain_1.svg</file>
+    <file alias="ncm_vip_remain_2.svg">assets/icons-svg/ncm_vip_remain_2.svg</file>
+    <file alias="ncm_vip_remain_3.svg">assets/icons-svg/ncm_vip_remain_3.svg</file>
+    <file alias="ncm_vip_remain_4.svg">assets/icons-svg/ncm_vip_remain_4.svg</file>
+    <file alias="ncm_vip_remain_5.svg">assets/icons-svg/ncm_vip_remain_5.svg</file>
+    <file alias="ncm_vip_remain_6.svg">assets/icons-svg/ncm_vip_remain_6.svg</file>
+    <file alias="ncm_vip_remain_7.svg">assets/icons-svg/ncm_vip_remain_7.svg</file>
+    <file alias="ncm_vip_renew.svg">assets/icons-svg/ncm_vip_renew.svg</file>
+    <file alias="ncm_volume.svg">assets/icons-svg/ncm_volume.svg</file>
+    <file alias="ncm_watch.svg">assets/icons-svg/ncm_watch.svg</file>
+    <file alias="ncm_wechat.svg">assets/icons-svg/ncm_wechat.svg</file>
+    <file alias="ncm_weibo.svg">assets/icons-svg/ncm_weibo.svg</file>
+    <file alias="ncm_welfare_center.svg">assets/icons-svg/ncm_welfare_center.svg</file>
+    <file alias="ncm_whaleSoundOn.svg">assets/icons-svg/ncm_whaleSoundOn.svg</file>
+    <file alias="ncm_whaleSoundVip.svg">assets/icons-svg/ncm_whaleSoundVip.svg</file>
+    <file alias="ncm_whalesound.svg">assets/icons-svg/ncm_whalesound.svg</file>
+    <file alias="ncm_window_close.svg">assets/icons-svg/ncm_window_close.svg</file>
+    <file alias="ncm_windows.svg">assets/icons-svg/ncm_windows.svg</file>
+    <file alias="ncm_wxpay.svg">assets/icons-svg/ncm_wxpay.svg</file>
+    <file alias="ncm_xpoint.svg">assets/icons-svg/ncm_xpoint.svg</file>
+    <file alias="ncm_zoom_out.svg">assets/icons-svg/ncm_zoom_out.svg</file>
+  </qresource>
+</RCC>

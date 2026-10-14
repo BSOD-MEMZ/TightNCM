@@ -1,0 +1,34 @@
+# ── 构建产物 ──────────────────────────────────────────
+build/
+build-*/
+out/
+*.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Qt 下载器的日志（setup-env.bat 会在根目录留一份）
+aqtinstall.log
+
+# ── 工作区数据（不要提交） ────────────────────────────
+.workbuddy/
+
+# ── ⚠️ 网易资产的镜像与还原源码，切勿提交到公开仓库 ──
+# 这些是官方资源的原样拷贝 / 反编译产物，版权归网易所有。
+research/mirror/
+research/src-recovered/
+research/snapshot/
+
+# ── 调试探针产物（--qml 二分用的临时 QML） ───────────
+research/memprobe/
+*.qmlc
+
+# ── 临时文件 ──────────────────────────────────────────
+*.log
+*.tmp
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.swp
+*~
